@@ -267,7 +267,7 @@ document.getElementById("link").addEventListener("click", function() {
 		data.push(key, val);
 	}
 	
-	var link = "https://cssdeck.com/labs/full/db2o5oej/0/noframe/?options=" + data.join("__");
+	var link = "https://i.postimg.cc/zXsYkSdM/05.png" + data.join("__");
 	
 	prompt("your link", link);
 });
